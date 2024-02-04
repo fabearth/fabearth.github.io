@@ -1,2 +1,2 @@
-# fabearth.github.io
-Fabulous Earth
+# Fabearth
+[Instagram](https://instagram.com/fab.earth.official)
