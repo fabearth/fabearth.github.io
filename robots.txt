@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://fab.earth/sitemap-index.xml
+Host: https://fab.earth
