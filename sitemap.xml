@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://fab.earth/</loc>
-<lastmod>2025-04-29T19:51:38.513Z</lastmod>
+<lastmod>2025-04-30T10:01:45.352Z</lastmod>
+</url>
+<url>
+<loc>https://fab.earth/species/tiger/</loc>
+<lastmod>2025-04-29T18:30:00.000Z</lastmod>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://fab.earth/species/western-black-rhinoceros/</loc>
@@ -41,7 +46,7 @@
 </url>
 <url>
 <loc>https://fab.earth/about/</loc>
-<lastmod>2025-04-29T19:51:38.515Z</lastmod>
+<lastmod>2025-04-30T10:01:45.363Z</lastmod>
 <priority>0.7</priority>
 </url>
 </urlset>
